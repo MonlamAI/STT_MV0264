@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project>
-  <transcriptionFont />
-  <freeTranslationFont />
+  <transcriptionFont>Monlam Uni OuChan5, 14.25, Regular</transcriptionFont>
+  <freeTranslationFont>Monlam Uni OuChan5, 14.25, Regular</freeTranslationFont>
   <AutoSegmentersettings minSegmentLength="0" maxSegmentLength="0" preferrerdPauseLength="0" optimumLengthClampingFactor="0" />
   <Title>MV0264</Title>
   <FundingProjectTitle />
@@ -17,5 +17,5 @@
   <DateAvailable />
   <RightsHolder />
   <Depositor />
-  <IMDIOutputDirectory />
+  <IMDIOutputDirectory>C:\Users\soshe\OneDrive\Documents\SayMore\IMDI Packages</IMDIOutputDirectory>
 </Project>
